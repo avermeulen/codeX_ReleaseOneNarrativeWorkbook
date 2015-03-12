@@ -1,4 +1,4 @@
-#High level oerview
+#High level overview
 
 An overview of things to follow. The details and priorities to be discussed.
 
@@ -40,4 +40,8 @@ Having a good handle on JQuery is required going forward
 ## Templating: 
 * Use basic template
 * Use handlebars
+
+##Usefull libraries
+* http://www.datatables.net/
+
 
